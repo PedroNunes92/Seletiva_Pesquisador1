@@ -3,3 +3,6 @@
 ### Arquivo dis
 Encontra a distancia horizontal entre duas uvas, escolhidas pelo usuario. 
 * Limitacao: O "y" tem que ser o mesmo,o usuário tem que escolher dois pontos(como o mesmo y) na imagem e dps apertar esc para sair.
+
+## Modelo
+Nessa pasta encontra os arquivos (ipynb e html) do treinamento do modelo e da inferência também.
